@@ -1,0 +1,44 @@
+body {
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .header {
+      width: 100%;
+  }
+  
+  #heading {
+      float: left;
+  }
+  
+  #instruction {
+      float: right;
+      color: white;
+      background-color: aqua;
+      border-radius: 10px;
+      width: 150px;
+      height: 40px;
+      margin-top: 5px;
+      font-size: 20px;
+  }
+  
+  .start {
+      font-size: 20px;
+      width: 200px;
+  }
+  .footer{
+    background-color: grey;
+    width: 100%;
+    margin-bottom: 0px;
+    color: white;
+    line-height: 2;
+    bottom: 0px;
+    position: sticky;
+}
+
+canvas{
+    border-radius: 20px;
+    border-color: black;
+    border-width: 3px;
+    box-shadow: 7px 7px 11px grey;
+}
